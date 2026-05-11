@@ -2,4 +2,4 @@ This mod displays some miscellaneous information about the Kila player controlle
 
 No configurations available.
 
-This is an example mod to show how you would go about importing a custom scene into the game using GodotModLoader, so if you're a budding modder, unzip it and give it a look![Landie-SimpleStats.zip](https://github.com/user-attachments/files/27579224/Landie-SimpleStats.zip)
+This is an example mod to show how you would go about importing a custom scene into the game using GodotModLoader, so if you're a budding modder, unzip it and give it a look
